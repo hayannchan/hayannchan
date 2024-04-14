@@ -12,5 +12,5 @@ My name is Tatyana Shcherbina, 21 years old. I am a student at the Faculty of Co
 All examples can be found on my page; for convenience, they are distributed and signed.
 
 ##### CONTACT ME #####
-Habr: https://career.habr.com/sherelle
-Telegram: https://t.me/shherelle
+* Habr: https://career.habr.com/sherelle
+* Telegram: https://t.me/shherelle

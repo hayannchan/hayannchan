@@ -4,7 +4,7 @@ My name is Tatyana Shcherbina, 21 years old. I am a student at the Faculty of Co
 
 ##### KEY SKILLS #####
 * Ability to work with HTML, CSS, JavaScript
-* Ability to work with Tilda, Figma & Adobe Photoshop (2022)
+* Ability to work with Tilda, Figma & Adobe Photoshop (2024)
 * Junior level Java programming
 * Junior level C++ programming
 * Working with DICOM format files

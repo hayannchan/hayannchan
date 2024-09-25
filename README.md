@@ -1,6 +1,6 @@
+<img src="moon.gif" align="center">
+
 ## WELCOME
-
-
 
 ##### KEY SKILLS #####
 * Ability to work with HTML, CSS, JavaScript

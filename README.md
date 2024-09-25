@@ -22,4 +22,4 @@ All examples can be found on my page; for convenience, they are distributed and 
 * Telegram: https://t.me/shherelle
 * Behance: https://www.behance.net/sherelle
 
-<img src="fish.gif" align="right" width="200">
+<img src="fish.gif" align="left" width="200">

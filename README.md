@@ -1,4 +1,8 @@
-<img src="moon.gif" align="center">
+<div align="center">
+  <img src="moon.gif" alt="moon">
+	<br>
+	<br>
+</div>
 
 ## WELCOME
 

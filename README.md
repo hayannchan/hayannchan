@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="moon.gif" alt="moon">
+  <img src="moon.gif" width="1000" alt="moon">
 	<br>
 	<br>
 </div>

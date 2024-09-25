@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="moon.gif" width="1000" alt="moon">
-	<br>
-</div>
 
 ## WELCOME
 
